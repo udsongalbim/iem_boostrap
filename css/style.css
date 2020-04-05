@@ -73,3 +73,7 @@ figcaption {
     padding: 15px;
 }
 
+.form-check label {
+    width: 200px;
+    text-align: center;
+}
