@@ -65,3 +65,10 @@ figcaption {
     font-size: 16px;
     color: #731919;
 }
+
+.container_fotos {
+    margin: 20px
+}
+.container_fotos img {
+    padding: 15px;
+}
