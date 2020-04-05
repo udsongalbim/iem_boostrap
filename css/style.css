@@ -59,3 +59,9 @@ figcaption {
 .card-img-overlay {
     padding: 15px;
 }
+
+.historia_container {
+    padding: 50px;
+    font-size: 16px;
+    color: #731919;
+}
